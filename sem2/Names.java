@@ -1,4 +1,3 @@
-import AllAvengers.Human;
 
 public enum Names {
 
